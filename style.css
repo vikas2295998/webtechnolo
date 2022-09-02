@@ -305,6 +305,7 @@ header .navbar a:hover{
   text-align: center;
   padding-top: 4rem;
   padding-bottom: 8rem;
+  border-radius: 10px;
 }
 
 .team .box-container .box img{
@@ -348,8 +349,8 @@ header .navbar a:hover{
 }
 
 .team .box-container .box .share a:hover{
-  background:#fff;
-  color:var(--black);
+  /* background:#fff; */
+  background-color:var(--clr);
 }
 
 .price{
